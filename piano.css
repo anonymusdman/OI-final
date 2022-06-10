@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+}
+#objects{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: aquamarine;
+}
